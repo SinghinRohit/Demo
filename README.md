@@ -1,2 +1,2 @@
-# Demo1
+# Demo
 Creating this repository for learning purpose
